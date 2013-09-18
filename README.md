@@ -1,13 +1,11 @@
 Image Upload and Resize v1.0
 
-============================
 1. What does this script do?
 ============================
 This script will upload one or more images to a file location of your choice,
 and will also generate a correctly cropped thumbnail, and resize the full-size
 image to a maximum dimension of your choice.
 
-============================
 2. How do I use it?
 ============================
 There are two files: index.php and imageUpload.php. Index.php contains a simple
